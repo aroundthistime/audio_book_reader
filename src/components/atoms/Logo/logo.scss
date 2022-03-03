@@ -1,0 +1,13 @@
+.logo {
+  display: inline-flex;
+  align-items: center;
+  .logo__image {
+    width: 6rem;
+    margin-right: 0.5rem;
+  }
+
+  .logo__text {
+    font-size: 2rem;
+    color: white;
+  }
+}
